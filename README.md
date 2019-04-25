@@ -11,3 +11,12 @@ the query object. In other words, restrict neighbors by both number of neighbors
 ### Data Description
 The training dataset consists of 14438 records and the test dataset consists of 14442 records. The train data has classes whereas, the test data classes are needed to be predicted.
 The data are provided as text in train.dat and test.dat, which should be processed appropriately.
+
+### Requirements
+You need to have pandas, numpy and nltk already installed to run this program or else you can do by using pip.
+```
+pip install pandas
+pip install numpy
+pip install nltk
+```
+
